@@ -48,7 +48,7 @@ This repository contains the codes for the algorithms and the obtained data for 
 
 * **Solutions**
 
-    The obtained solutions for each algorithm regarding all problems in the benchmark (5 algorithms | 57 problems | 25 runs).
+    The obtained solutions for each algorithm regarding all problems in the benchmark (5 algorithms, 57 problems, 25 runs).
   
 ## Credit
 
