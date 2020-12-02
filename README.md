@@ -58,6 +58,4 @@ Basque Center for Applied Mathematics - BCAM | Universidad del Pais Vasco UPV/EH
 
 Email: ashirazi@bcamath.org
 
-Web: http://www.homasim.com/ashirazi
-
 
