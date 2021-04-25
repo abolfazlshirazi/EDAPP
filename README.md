@@ -38,6 +38,7 @@ This repository contains the codes for the algorithms and the obtained data for 
 
   - ALG_BPMAGES                 : BP-ϵMAg-ES 
   - ALG_COLSHADE                : COLSHADE
+  - ALG_CORCO                   : CORCO
   - ALG_EDAPP                   : EDA++
   - ALG_ENMODE                  : EnMODE
   - ALG_LSHADE44                : LSHADE44
@@ -48,7 +49,7 @@ This repository contains the codes for the algorithms and the obtained data for 
 
 * **Solutions**
 
-    The obtained solutions for each algorithm regarding all problems in the benchmark (5 algorithms, 57 problems, 25 runs).
+    The obtained solutions for each algorithm regarding all problems in the benchmark (6 algorithms, 57 problems, 25 runs).
   
 ## Credit
 
