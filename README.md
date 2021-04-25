@@ -44,7 +44,7 @@ This repository contains the codes for the algorithms and the obtained data for 
 
 * **CEC2020**
 
-    CEC 2020 real-world constrained optimization benchmark problems.
+    CEC 2020 real-world constrained optimization benchmark of 57 constrained continuous optimization problems.
 
 * **Solutions**
 
