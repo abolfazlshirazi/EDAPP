@@ -55,8 +55,8 @@ This repository contains the codes for the algorithms and the obtained data for 
 
 Abolfazl Shirazi
 
-Basque Center for Applied Mathematics - BCAM | Universidad del Pais Vasco UPV/EHU
+Zerua Tech S.L. | Basque Center for Applied Mathematics - BCAM | Universidad del Pais Vasco UPV/EHU
 
-Email: ashirazi@bcamath.org
+Email: abolfazl.shirazi@zerua.tech
 
 
